@@ -1,7 +1,7 @@
 <img align="left" width="1000" alt="me" src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=60&duration=8000&pause=1000&color=6075F7&width=2000&height=100&lines=Hi%2C+I'm+Ayushman+Singh+!+Welcome+to+my+profile+%F0%9F%99%8F+">
 
 <img align="right" width="200" alt="me" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
-<!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=50&duration=8000&pause=1000&color=6075F7&width=2000&height=100&lines=Hi%2C+I'm+Bhavy+Upreti+!+Welcome+to+my+profile+%F0%9F%99%8F+)](https://git.io/typing-svg)-->
+<!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=50&duration=8000&pause=1000&color=6075F7&width=2000&height=100&lines=Hi%2C+I'm+Ayushman+Singh+!+Welcome+to+my+profile+%F0%9F%99%8F+)](https://git.io/typing-svg)-->
 
 <br>
 💻 Data Analytics | Java Enthusiast | Final Year CSE Student <br>
