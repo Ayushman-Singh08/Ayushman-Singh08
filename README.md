@@ -1,58 +1,84 @@
-<img align="left" width="1000" alt="me" src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=60&duration=8000&pause=1000&color=6075F7&width=2000&height=100&lines=Hi%2C+I'm+Ayushman+Singh+!+Welcome+to+my+profile+%F0%9F%99%8F+">
+<img align="left" width="1000" alt="me" src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=60&duration=8000&pause=1000&color=A075F7&width=2000&height=100&lines=Hi%2C+I'm+Ayushman+Singh+!+Welcome+to+my+profile+%F0%9F%99%8F+">
 
-<img align="right" width="200" alt="me" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
-<!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=50&duration=8000&pause=1000&color=6075F7&width=2000&height=100&lines=Hi%2C+I'm+Ayushman+Singh+!+Welcome+to+my+profile+%F0%9F%99%8F+)](https://git.io/typing-svg)-->
+<p align="center">
+  <strong>Data Analytics • Java Development • Python • AI-Assisted Solutions</strong>
+</p>
 
-<br>
-💻 Data Analytics | Java Enthusiast | Final Year CSE Student <br>
-⚙️Focused on data analytics, Java development, and creating impactful AI-driven solutions <br>
-🚀 Open to Data Analyst roles, Java development, python development, internships, and impactful collaborations
-<br><br>
+<p align="center">
+  Final-year Computer Science student focused on building practical, insight-driven software.
+</p>
 
-## 🤝 Wanna work together ?  
-Got an idea, project, or just want to connect? <br>
-I'm always open to collaboration, learning, and building cool stuff together.
-Let’s create something impactful — reach out and let’s talk!<br>
+<p align="center">
+  Open to Data Analyst, Java Developer, Python-focused, and internship opportunities.
+</p>
 
-📬 Email: <a href="mailto:ayushmansingh0507@gmail.com">ayushmansingh0507@gmail.com</a>
-<br><br>
-## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ayushman-singh-852664356/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ayushmaan_rajput_0508)
-<br><br>
-## ⚙ Skills & Tools
+<p align="center">
+  <a href="mailto:ayushmansingh0507@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/ayushman-singh-852664356/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
-### 👨‍💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-R?style=for-the-badge)
+---
 
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&log)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![XML](https://img.shields.io/badge/XML-008000?style=for-the-badge&logo=xml&logoColor=white)
+## About Me
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- Final-year CSE student focused on data analytics, backend development, Java, Python, and AI-assisted problem solving.
+- I enjoy turning ideas, datasets, and workflows into practical and well-structured solutions.
+- Comfortable with core programming, databases, version control, and foundational web technologies.
+- Currently deepening my skills in backend development, data analysis, and data visualization.
+- Also exploring prompt engineering and AI workflows as part of modern software building.
 
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Excel-Excel?style=for-the-badge)
+## Tech Stack
 
-<br><br>
-## 🧠 Currently Learning
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,r&theme=dark" />
+</p>
 
-- 📦 R Programming (for statistical analysis)
-- ☁️ AWS (cloud fundamentals & deployment basics)
-- 🧩 Advanced Java & Spring Boot (backend development)
-- 🛠️ Data Visualization (Power BI / Tableau - advanced level)
-- 🐍 Python for Data Analysis (Pandas, NumPy)
-- 🦖 React for frontend & Node, Express and Next.Js for Backend
-<br><br>
+### Frontend & Markup
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,md&theme=dark" /><img style="display: inline-block;" width="50" height="55" alt="image" src="https://github.com/user-attachments/assets/77a3c3fc-3474-4137-8bd5-2dc28a94dda0" />
+</p>
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" />
+</p>
+
+### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma&theme=dark" /><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/2d7d8b76-5872-4850-8b32-a26dffe7a718" />
+
+</p>
+
+## Currently Learning
+
+- Advanced Java and Spring Boot
+- Python for data analysis with Pandas and NumPy
+- Power BI and Tableau for stronger data storytelling
+- AWS fundamentals and deployment basics
+- React, Node.js, Express, and Next.js
+- Deeper statistical analysis in R
+
+## Featured Projects
+
+<!-- Replace the placeholders below with your strongest repositories -->
+
+| Project | What it shows | Stack | Link |
+| --- | --- | --- | --- |
+| Analytics Case Study | Data cleaning, analysis, visualization, and insight generation on a real dataset. | Python, Pandas, Excel / Power BI | [Repository](#) |
+| Java Project | Object-oriented design, problem solving, and clean modular structure. | Java, MySQL | [Repository](#) |
+| AI / Automation Project | Prompt engineering, workflow automation, or AI-assisted tooling. | Python, APIs | [Repository](#) |
+
+## GitHub Overview
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Ayushman-Singh08&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Ayushman-Singh08&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ayushman-Singh08&layout=compact&theme=radical)
+
 ## 💡 Dev Jokes
 
 ![Dev Tip](https://readme-jokes.vercel.app/api)
@@ -65,24 +91,11 @@ Let’s create something impactful — reach out and let’s talk!<br>
 <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=great-gatsby&animation=grow_out_in&layout=churchill&font=Gabrielle&quoteType=random&bgColor=cyan&fontColor=red">
 </p>
 
-## 🙏 Thank You for Visiting!
+## Contact
 
-<img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejNpZDZrMjhvOGhjN2xnbzg4Y2pldDhoYTd3Z3ZjNGc3cnA5bzlqdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/b0DUkn7aEOYHVF3E1O/giphy.gif" width="150" height="150" alt="Thank You GIF" />
-I appreciate you stopping by my GitHub profile.  
-Feel free to explore my repositories, check out my projects, or connect with me!
-
-
-📬 **Let’s Connect**: If you liked something or want to collaborate, just reach out!
-
-> **"Code. Learn. Share. Repeat."**
-<img src="https://komarev.com/ghpvc/?username=Ayushman-Singh08&abbreviated=true&label=WATCHED&color=000000&style=for-the-badge">
+- Email: [ayushmansingh0507@gmail.com](mailto:ayushmansingh0507@gmail.com)
+- LinkedIn: [Ayushman Singh](https://www.linkedin.com/in/ayushman-singh-852664356/)
 
 ---
 
-<p align="center">
-  <sub>
-  © 2025 <strong>Ayushman Singh ·</strong> Made with ❤️ using  
-  <img src="https://img.shields.io/badge/Markdown-000?style=flat&logo=markdown&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=plastic&logo=github-actions&logoColor=white&logoSize=small"/>
-  </sub>
-</p>
+**I’m building toward roles where data, software, and practical AI meet. If that aligns with your team or project, let’s connect.**
