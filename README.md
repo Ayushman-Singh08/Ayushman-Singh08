@@ -4,9 +4,9 @@
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=50&duration=8000&pause=1000&color=6075F7&width=2000&height=100&lines=Hi%2C+I'm+Bhavy+Upreti+!+Welcome+to+my+profile+%F0%9F%99%8F+)](https://git.io/typing-svg)-->
 
 <br>
-💻 Full-Stack Developer | Java Enthusiast | Final Year CSE Student <br>
-⚙️ Exploring backend systems, cloud infra, and scalable architectures <br>
-🚀 Open to SDE roles, internships & cool collaborations!
+💻 Data Analytics | Java Enthusiast | Final Year CSE Student <br>
+⚙️Focused on data analytics, Java development, and creating impactful AI-driven solutions <br>
+🚀 Open to Data Analyst roles, SDE opportunities, internships, and impactful collaborations
 <br><br>
 
 ## 🤝 Wanna work together ?  
@@ -14,7 +14,7 @@ Got an idea, project, or just want to connect? <br>
 I'm always open to collaboration, learning, and building cool stuff together.
 Let’s create something impactful — reach out and let’s talk!<br>
 
-📬 Email: <a href="mailto:bhavyupreti0@gmail.com">bhavyupreti0@gmail.com</a>
+📬 Email: <a href="mailto:ayushmansingh0507@gmail.com">ayushmansingh0507@gmail.com</a>
 <br><br>
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/bhavy-upreti-772b6b331/)
