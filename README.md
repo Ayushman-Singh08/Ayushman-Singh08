@@ -6,7 +6,7 @@
 <br>
 💻 Data Analytics | Java Enthusiast | Final Year CSE Student <br>
 ⚙️Focused on data analytics, Java development, and creating impactful AI-driven solutions <br>
-🚀 Open to Data Analyst roles, SDE opportunities, internships, and impactful collaborations
+🚀 Open to Data Analyst roles, Java development, python development, internships, and impactful collaborations
 <br><br>
 
 ## 🤝 Wanna work together ?  
@@ -17,54 +17,41 @@ Let’s create something impactful — reach out and let’s talk!<br>
 📬 Email: <a href="mailto:ayushmansingh0507@gmail.com">ayushmansingh0507@gmail.com</a>
 <br><br>
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/bhavy-upreti-772b6b331/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhavy_upreti)
-[![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=Telegram&logoColor=white)](https://t.me/NewNOOB01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ayushman-singh-852664356/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ayushmaan_rajput_0508)
 <br><br>
 ## ⚙ Skills & Tools
 
 ### 👨‍💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Excel?logo=Excel)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![R](https://img.shields.io/badge/R-R?style=for-the-badge)
 
 ### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&log)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-008000?style=for-the-badge&logo=xml&logoColor=white)
-
-### 🖥️ Backend & Runtime
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🔧 Tools & Platforms
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Excel-Excel?style=for-the-badge)
 
-### ☁️ Hosting & Deployment
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 <br><br>
 ## 🧠 Currently Learning
 
-- 📦 Docker & Kubernetes for containerized DevOps pipelines
-- ☁️ AWS for scalable backend deployments
-- 🧩 Advanced Java & Spring Boot APIs
-- 🛠️ System design & architecture fundamentals
+- 📦 R Programming (for statistical analysis)
+- ☁️ AWS (cloud fundamentals & deployment basics)
+- 🧩 Advanced Java & Spring Boot (backend development)
+- 🛠️ Data Visualization (Power BI / Tableau - advanced level)
+- 🐍 Python for Data Analysis (Pandas, NumPy)
+- 🦖 React for frontend & Node, Express and Next.Js for Backend
 <br><br>
 ## 💡 Dev Jokes
 
@@ -94,7 +81,7 @@ Feel free to explore my repositories, check out my projects, or connect with me!
 
 <p align="center">
   <sub>
-  © 2025 <strong>Bhavy Upreti ·</strong> Made with ❤️ using  
+  © 2025 <strong>Ayushman Singh ·</strong> Made with ❤️ using  
   <img src="https://img.shields.io/badge/Markdown-000?style=flat&logo=markdown&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=plastic&logo=github-actions&logoColor=white&logoSize=small"/>
   </sub>
