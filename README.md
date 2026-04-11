@@ -69,7 +69,7 @@
 
 | Project | What it shows | Stack | Link |
 | --- | --- | --- | --- |
-| Analytics Case Study | Data cleaning, analysis, visualization, and insight generation on a real dataset. | Python, Pandas, Excel / Power BI | [Repository](#) |
+| Customer Trend Analysis | Data-driven project focused on identifying patterns in customer behavior over time. | Python, Pandas, Excel / Power BI | [Repository](https://github.com/Ayushman-Singh08/Custome-trend-analysis) |
 | ResumeAI | free, open-source AI resume builder that helps job seekers create professional, ATS-optimized resumes. | Java, TypeScript, PostgreSQL | [Repository](https://github.com/Ayushman-Singh08/Resume-AI) |
 | Helios-Grid | Decentralized MARL platform with P2P Energy Balancing with GNN | Python, React, TypeScript, ThreeJs, RabbitMQ | [Repository](https://github.com/Ayushman-Singh08/Helios-Grid) |
 
